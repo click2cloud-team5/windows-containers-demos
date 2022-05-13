@@ -1,4 +1,4 @@
-# TODO: The maintainer of this repo has not yet edited this file
+# TO DO: The maintainer of this repo has not yet edited this file
 
 **REPO OWNER**: Do you want Customer Service & Support (CSS) support for this product/project?
 
@@ -8,9 +8,9 @@
 
 *Then remove this first heading from this SUPPORT.MD file before publishing your repo.*
 
-# Support
+# Support!
 
-## How to file issues and get help  
+## How to file issues and get help  ?
 
 This project uses GitHub Issues to track bugs and feature requests. Please search the existing 
 issues before filing new issues to avoid duplicates.  For new issues, file your bug or 
